@@ -8,7 +8,7 @@ git clone https://github.com/caktux/slackindocker
 
 ### Configuration
 
-Copy `config.json.sample` to `config.json` and edit to your liking.
+Copy `config.sample` to `config` and edit to your liking.
 
 ### Building and running
 
