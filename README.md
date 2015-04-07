@@ -17,7 +17,7 @@ Build the docker container and run it with:
 ```
 cd slackindocker/docker
 docker build -t slackin .
-docker run -d -t slackin
+docker run -d -p 3000:3000 -t slackin
 ```
 
 Enjoy :)
